@@ -64,8 +64,9 @@ More options for the commands `rpicam-still` and `rpicam-vid` can be accessed wi
 General examples can be found online.
 
 ## Example pictures and videos
-Examples will follow.
-
+Example picture:  
+![Simple Picture from Raspberry Pi camera](/examples/default_start.jpg)  
+Example video [download / show example video](/examples/documents.mp4)
 
 
 ## References
